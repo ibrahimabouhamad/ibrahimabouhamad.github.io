@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Page dirty="" lastMod="1207270434688" lastPublish="1207273534310" lastSave="1207270437141" lastUpdated="Thu Apr 03 17:53:57 GMT-07:00 2008" localPreview="false" showingTemplate="false">
+<Element addBorder="true" addCopyright="true" backgroundType="bgColor" bgColor="#ffffff" bgImage="" bgPattern="ibog:/Backgrounds#algae.gif" brManagedPageTitle="true" center="true" changed="@uidCounter,@changed,@pageURI,@filename,@title,@bgColor,@copyrightFooterStyle," copyrightBy="" copyrightFooterStyle="No Footer" currentWindow="1" description="" editable="true" filename="siteerror404" followedLinkColor="#0060ff" footerBackgroundColor="#ffffff" footerBorderColor="#dedede" footerLinkColor="#0060ff" footerStyle="White Bar" footerTextColor="#303030" footerTextFont="Trebuchet MS" footerTextSize="12px" headTag="" imageToolbarOff="true" keyword="" linkColor="#0060ff" master="master" onPublish="PageElement" onload="" onunload="" pagePassword="" pageURI="http://pagetypes.qahomestead.com/9/siteerror404.html" passwordProtectedFile="" quicksiteDesign="true" showFooter="false" title="Saint Therese of the Child Jesus | Page Not Found" type="Page" uidCounter="54" uniqueID="element1" width="980">
+<?property ignore-whitespace="false"?>
+<Element bgcolor="" border-color="#000000" border-width="0" deletable="" editable="true" height="27" locked="" name="Text-21" padding="0" sizePositionLocked="false" templateID="" type="Text" uniqueID="element44" width="696" x="260" y="90">
+<Paragraph>
+<Segment color="#5292fe" font-family="Trebuchet MS" font-size="18">Saint Therese of the Child Jesus</Segment>
+</Paragraph>
+</Element>
+<?property ignore-whitespace="true"?>
+<Element alt="" color="#dedede" deletable="" height="165" link="" link_target="_self" locked="" name="Rectangle-1" onPreview="HSRectangle" onPublish="HSRectangle" radius="5" sizePositionLocked="false" templateID="" type="Rectangle" uniqueID="element52" width="501" x="359" y="170"/>
+<?property ignore-whitespace="false"?>
+<Element bgcolor="" border-color="#000000" border-width="0" deletable="" editable="true" height="19" locked="" name="Text-23" padding="0" sizePositionLocked="false" templateID="" type="Text" uniqueID="element53" width="212" x="391" y="192">
+<Paragraph>
+<Segment color="#303030" font-family="Trebuchet MS" font-size="12" font-style="bold">Page Not Found</Segment>
+</Paragraph>
+</Element>
+<?property ignore-whitespace="true"?>
+<?property ignore-whitespace="false"?>
+<Element bgcolor="" border-color="#000000" border-width="0" deletable="" editable="true" height="82" locked="" name="Text-24" padding="0" sizePositionLocked="false" templateID="" type="Text" uniqueID="element54" width="450" x="391" y="225">
+<Paragraph>
+<Segment color="#303030" font-family="Trebuchet MS" font-size="11">We apologize for the inconvenience. The page you have requested does not exist or has been moved. Please check to make sure that the URL you entered is accurate.</Segment>
+</Paragraph>
+</Element>
+<?property ignore-whitespace="true"?>
+<Form height="auto" resizeable="no" width="100%" x="" y=""/>
+</Element>
+<HeadTag><![CDATA[
+
+	]]></HeadTag>
+<Version>
+<Current fileVersion="13" site="1750332986" user="430485"/>
+<Initial fileVersion="12" site="1753265542" user="286"/>
+</Version>
+</Page>
